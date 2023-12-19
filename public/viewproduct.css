@@ -1,0 +1,37 @@
+/* taro file ini di folder public */
+
+.btn-outline-dark
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.section
+{
+    width: 400px;
+    color: black;
+}
+
+.container 
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5rem;
+    gap: 4rem;
+    padding: 1rem;
+}
+
+.bi.bi-star-fill.p-1
+{
+    margin-bottom: 10px;
+}
+
+.rating.d-flex
+{
+    display: flex;
+}
+
+.form-control
+{
+    padding-left: 2.75rem;
+}

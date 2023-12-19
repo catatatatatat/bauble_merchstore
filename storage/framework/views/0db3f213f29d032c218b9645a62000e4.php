@@ -1,0 +1,1 @@
+<p>test</p><?php /**PATH C:\xampp\htdocs\final-project\resources\views/view_product.blade.php ENDPATH**/ ?>
